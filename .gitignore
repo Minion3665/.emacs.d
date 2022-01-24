@@ -1,0 +1,8 @@
+*~
+*#
+config.el
+elpa/
+transient/
+*.eld
+*.sqlite
+.*
